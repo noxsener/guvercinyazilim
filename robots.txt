@@ -1,0 +1,6 @@
+Sitemap: http://guvercinyazilim.com/sitemap.xml
+User-agent:*
+Crawl-delay:10
+Disallow:/assets/
+User-agent: IRLbot
+Crawl-delay: 3600
